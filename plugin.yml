@@ -1,0 +1,5 @@
+name: SnowWeather
+author: CaptainKenji17
+version: 1.0
+api: [1.12.0]
+main: sw\Main
